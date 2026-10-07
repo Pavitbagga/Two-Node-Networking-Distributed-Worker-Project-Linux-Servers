@@ -1,5 +1,3 @@
-# HomeMadeLinuxServerDiYProject
-I had spare Devices a Old Samsung Phone and a Asus Vivobook. So i decided to convert them into useful distributed linux servers
 [README_Hybrid_Homelab_Networking.md](https://github.com/user-attachments/files/33140115/README_Hybrid_Homelab_Networking.md)
 # DIY Hybrid Homelab: Two-Node Networking & Distributed Worker Project
 
